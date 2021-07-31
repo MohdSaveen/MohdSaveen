@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 I write texh blogs here **[Hashnode](https://subhamraoniar.com)**
-
 - 📫 How to reach me **saveen047@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
