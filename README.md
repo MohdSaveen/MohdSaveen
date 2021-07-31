@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/MohdSaveen/github-readme-activity-graph"><img alt="Saveen's  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sainath-AI&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MohdSaveen/github-readme-activity-graph"><img alt="Saveen's  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohdSaveen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -72,4 +72,4 @@
 <a href="https://github.com/MohdSaveen/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MohdSaveen">
 </a>
-<a href="https://github.com/MohdSaveen?tab=followers"><img src="https://img.shields.io/github/followers/sainath-AI?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MohdSaveen?tab=followers"><img src="https://img.shields.io/github/followers/MohdSaveen?label=Followers&style=social" alt="GitHub Badge"></a>
