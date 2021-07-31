@@ -16,7 +16,7 @@
 
 - 👨‍💻 I write texh blogs here **[Hashnode](https://subhamraoniar.com)**
 
-- 📫 How to reach me **dukedustine123@gmail.com**
+- 📫 How to reach me **saveen047@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
@@ -24,10 +24,8 @@
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> </a> 
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/flutter.png"/> </a> 
-    <a  href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
@@ -39,7 +37,7 @@
 
 <p align="center">
     <a href="https://github.com/MohdSaveen/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saveen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sainath-AI&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saveen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdSaveen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -71,7 +69,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/sainath-AI/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sainath-AI">
+<a href="https://github.com/MohdSaveen/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MohdSaveen">
 </a>
-<a href="https://github.com/sainath-AI?tab=followers"><img src="https://img.shields.io/github/followers/sainath-AI?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MohdSaveen?tab=followers"><img src="https://img.shields.io/github/followers/sainath-AI?label=Followers&style=social" alt="GitHub Badge"></a>
