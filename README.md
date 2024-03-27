@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Licious App](https://github.com/sainath-AI/Licious)**
+- 🔭 I’m currently working on **[Movie Informer]()**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
